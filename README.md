@@ -24,15 +24,15 @@ If you are just looking for the results of the benchmark, here they are:
 
 <p align="center"><img src="imgs/benchmark_results_iris_plot.png" alt="Network architecture" height="100%" width="100%"></p>
 
-### Diabetes
+### Diabetes results
 
 <p align="center"><img src="imgs/benchmark_results_diabetes_plot.png" alt="Network architecture" height="100%" width="100%"></p>
 
-### Wine
+### Wine results
 
 <p align="center"><img src="imgs/benchmark_results_wine_plot.png" alt="Network architecture" height="100%" width="100%"></p>
 
-### Breast Cancer
+### Breast Cancer results
 
 <p align="center"><img src="imgs/benchmark_results_breast_cancer_plot.png" alt="Network architecture" height="100%" width="100%"></p>
 
